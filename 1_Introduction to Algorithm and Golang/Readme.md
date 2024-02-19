@@ -46,4 +46,4 @@ Algoritma juga memiliki karakteristik yang cukup penting diantaranya :
 Contoh sebuah flowchart untuk menghitung luas trapesium :
 ![Algoritma Dasar](/1_Introduction%20to%20Algorithm%20and%20Golang/praktikum/soal-3.png)
 
-#Thank You :star2:
+# Thank You :star2:
