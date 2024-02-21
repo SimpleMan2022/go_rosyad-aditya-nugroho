@@ -1,6 +1,6 @@
 # Basic Programming :rocket:
 
-![Logo Golang](/screenshoots/logo-golang.png)
+![Logo Golang](screenshoots/logo-golang.png)
 
 > Golang adalah bahasa pemrograman open-source yang dikembangkan oleh google, berguna untuk mengembangkan web, layanan cloud dan jaringan, serta jenis perangkat lunak lainnya.
 > Pada program aplikasi, golang biasanya digunakan untuk website e-commerce, music player, social media apps, dll.
@@ -8,7 +8,7 @@
 
 ## Pengembang Golang
 
-![alt text](/screenshoots/developer-golang.png)
+![alt text](screenshoots/developer-golang.png)
 Ada beberapa developer yang membuat golang diantaranya :
 
 > 1. Robert Grisemer
