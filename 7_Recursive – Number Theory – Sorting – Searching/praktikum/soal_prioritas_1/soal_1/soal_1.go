@@ -8,21 +8,16 @@ func main() {
 }
 
 func fibX(n int) int {
-	if n <= 0 {
-		return 0
-	} else if n == 1 {
-		return 1
-	} else {
-		return fibonacci(n) + fibX(n-1)
+	sum := 0
+	for i := 0; i <= n; i++ {
+		sum += fibonacci(i)
 	}
+	return sum
 }
 
 func fibonacci(n int) int {
-	if n <= 0 {
-		return 0
-	} else if n == 1 {
-		return 1
-	} else {
-		return fibonacci(n-1) + fibonacci(n-2)
+	if n <= 1 {
+		return n
 	}
+	return fibonacci(n-1) + fibonacci(n-2)
 }
