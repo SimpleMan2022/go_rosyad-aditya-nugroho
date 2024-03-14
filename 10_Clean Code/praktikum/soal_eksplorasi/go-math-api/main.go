@@ -9,11 +9,6 @@ import (
 	"github.com/labstack/echo/v4"
 )
 
-type R struct {
-	A int
-	B int
-}
-
 func main() {
 	e := echo.New()
 
