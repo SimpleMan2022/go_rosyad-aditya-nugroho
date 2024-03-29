@@ -1,4 +1,4 @@
-# Intro Echo Golang :rocket:
+# ORM and Code Structure (MVC) :rocket:
 
 ## Apa itu Object Relational Mapping(ORM)
 
