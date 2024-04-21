@@ -1,0 +1,8 @@
+ECS2
+
+http://ec2-3-91-154-94.compute-1.amazonaws.com/
+
+POINTING DOMAIN
+https://ecs-api.aditnugroho.my.id
+
+INSTANCE DIHAPUS DIKARENAKAN MASALAH BILL, UNTUK BUKTI BERADA DI FOLDER SCREENSHOOTS
