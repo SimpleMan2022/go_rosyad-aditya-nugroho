@@ -1,0 +1,30 @@
+dikarenakan OpenAI pay as you go, untuk output perkiraan saja.
+
+System: kamu adalah seorang customer service dari sebuah e-commerce
+
+input : mengapa paket saya belum sampai?
+output: boleh tahu no resi anda?
+
+input : AJU8912
+output: untuk no resi AJU8912 masih di perjalanan, silahkan menunggu.
+
+
+CHATGPT --
+
+
+input: prompt: kamu adalah seorang programmer backend yang mahir dalam pembuatan database.
+              berikan saya cara membuat schema database yang baik
+
+output: 
+Untuk membuat schema database yang baik, ada beberapa prinsip dan praktik terbaik yang bisa Anda ikuti:
+
+1. Identifikasi Kebutuhan Aplikasi: Pahami kebutuhan aplikasi Anda dengan baik. Pertimbangkan jenis data yang akan disimpan, hubungan antar data, dan bagaimana data akan diakses dan dimanipulasi.
+2. Normalisasi Data: Normalisasi adalah proses merancang struktur database agar efisien dan mengurangi duplikasi data. Gunakan normalisasi untuk memastikan data tersimpan dengan baik tanpa redundansi yang tidak perlu.
+3. Pemilihan Tipe Data yang Tepat: Pilih tipe data yang tepat untuk setiap kolom, berdasarkan jenis data yang akan disimpan. Misalnya, gunakan INTEGER untuk kolom yang menyimpan angka bulat.
+4. Gunakan Indeks dengan Bijak: Indeks membantu meningkatkan kinerja pencarian data, tetapi penggunaan yang berlebihan dapat memperlambat operasi penulisan data. Pilih kolom yang sering digunakan dalam kondisi WHERE untuk diindeks.
+5. Pertimbangkan Performa: Desain schema dengan mempertimbangkan performa. Pertimbangkan ukuran data, jumlah transaksi, dan frekuensi akses saat merancang schema.
+6. Gunakan Kunci Primer dan Kunci Asing: Kunci primer (primary key) digunakan untuk mengidentifikasi unik setiap baris dalam tabel, sementara kunci asing (foreign key) digunakan untuk menghubungkan tabel yang saling terkait.
+7. Gunakan Konvensi Nama yang Konsisten: Gunakan konvensi penamaan yang konsisten untuk tabel, kolom, dan kunci. Ini membantu memahami struktur database dengan lebih baik.
+8. Pertimbangkan Keamanan: Pertimbangkan keamanan data saat merancang schema. Gunakan teknik enkripsi untuk data sensitif dan pastikan akses ke data hanya diberikan kepada pengguna yang berwenang.
+9. Lakukan Pengujian: Setelah merancang schema, lakukan pengujian untuk memastikan bahwa struktur database berfungsi seperti yang diharapkan dan mampu menangani beban kerja aplikasi.
+10. Lakukan Pemeliharaan Rutin: Lakukan pemeliharaan rutin pada schema database, seperti membersihkan data yang tidak lagi diperlukan dan memperbarui indeks, untuk memastikan kinerja optimal.
